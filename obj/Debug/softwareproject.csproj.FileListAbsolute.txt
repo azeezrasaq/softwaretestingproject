@@ -50,6 +50,6 @@ C:\MVC\projects\softwareproject\softwareproject\bin\Microsoft.Owin.Security.OAut
 C:\MVC\projects\softwareproject\softwareproject\bin\Microsoft.Owin.Security.Google.xml
 C:\MVC\projects\softwareproject\softwareproject\bin\Microsoft.Owin.Security.Twitter.xml
 C:\MVC\projects\softwareproject\softwareproject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\MVC\projects\softwareproject\softwareproject\obj\Debug\softwareproject.csprojResolveAssemblyReference.cache
 C:\MVC\projects\softwareproject\softwareproject\obj\Debug\softwareproject.dll
 C:\MVC\projects\softwareproject\softwareproject\obj\Debug\softwareproject.pdb
+C:\MVC\projects\softwareproject\softwareproject\obj\Debug\softwareproject.csprojResolveAssemblyReference.cache
