@@ -37,7 +37,8 @@ summary {
 }
 
 audio,
-canvas,
+canvas,33
+
 video {
   display: inline-block;
 }

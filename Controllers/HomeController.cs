@@ -9,9 +9,9 @@ namespace softwareproject.Controllers
     public class HomeController : Controller
     {
         //Action methods 
-        public string Index()
+        public ActionResult Index()
         {
-            return "Hello World :";
+            return View();
         }
 
         public ActionResult About()
